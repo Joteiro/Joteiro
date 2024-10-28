@@ -1,6 +1,6 @@
 # Juan Taraciuk
 
-Hi there I am Juan,
+Hi there! I am Juan,
 <br><br> I'm a data analyst with a passion for using data to solve problems and drive results. I've worked on a variety of projects in both marketing and finance, using my skills in data extraction and visualization to help businesses make informed decisions. </br></br>
 
 How to reach me:
