@@ -13,6 +13,10 @@ How to reach me:
 
 
 ## Projects
+### SQL: Football Transfers & Performance Analysis <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="20" height="15"> ([View Repository](https://github.com/Joteiro/Analisis-Futbol-Europeo))
+* Modeled a Transfermarkt dataset (7 tables, 300K+ rows) in MySQL — from staging through transformation, semantic views, and quality checks.
+* Analyzed whether transfer spending predicts performance, whether market value reflects real output, and what other factors (home advantage, refereeing trends) drive results in European football.
+
 ### Python: Wine Structural Analysis – Vivino <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="20" height="15"> ([View Repository](https://github.com/Joteiro/Vinos-EDA))
 * Built a dataset of 7,965 Spanish wines by scraping Vivino's public API, followed by a complete pipeline covering data cleaning, feature engineering, and visualization.
 * Key findings: older vintages consistently score higher across regions; price and rating are weakly correlated — the analysis surfaces hidden-value bottles with strong quality-to-price ratios by region and grape variety.
