@@ -12,6 +12,8 @@ How to reach me:
 </Div>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joteiro&layout=compact)](https://github.com/Joteiro)
+
 ## Projects
 ### Python: Wine Structural Analysis – Vivino <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="20" height="15"> ([View Repository](https://github.com/Joteiro/Vinos-EDA))
 * Built a dataset of 7,965 Spanish wines by scraping Vivino's public API, followed by a complete pipeline covering data cleaning, feature engineering, and visualization.
