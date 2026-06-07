@@ -1,22 +1,52 @@
-# Juan Taraciuk
+# Hi, I'm Juan Taraciuk 👋
 
-Hi there! I'm Juan,
-<br><br> I'm a data analyst with a hands-on approach to the full data pipeline: from collecting and cleaning data to building analyses and communicating what the numbers actually say. I'm particularly drawn to projects where the data tells a surprising story. </br></br>
+### Data Analyst | Python · SQL · Power BI
 
-**Skills:** Python · SQL · Power BI · Web Scraping · EDA · Data Visualization
+*"The most interesting conclusions are the ones you didn't expect."*
 
-How to reach me:
-<Div>
-  <a href="https://www.linkedin.com/in/juan-taraciuk/" rel="nofollow">
-    <img alt="LinkedIn" src="https://raw.githubusercontent.com/SaiSiddhardhaKalla/statalogosvg/main/linkedin-icon.svg", width="40" hieght="40" style="max-width: 100%;">
-</Div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-taraciuk/)
 
+---
 
-## Projects
-### SQL: Football Transfers & Performance Analysis <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="20" height="15"> ([View Repository](https://github.com/Joteiro/Analisis-Futbol-Europeo))
-* Modeled a Transfermarkt dataset (7 tables, 300K+ rows) in MySQL — from staging through transformation, semantic views, and quality checks.
-* Analyzed whether transfer spending predicts performance, whether market value reflects real output, and what other factors (home advantage, refereeing trends) drive results in European football.
+### 👨‍💻 About Me
 
-### Python: Wine Structural Analysis – Vivino <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="20" height="15"> ([View Repository](https://github.com/Joteiro/Vinos-EDA))
-* Built a dataset of 7,965 Spanish wines by scraping Vivino's public API, followed by a complete pipeline covering data cleaning, feature engineering, and visualization.
-* Key findings: older vintages consistently score higher across regions; price and rating are weakly correlated — the analysis surfaces hidden-value bottles with strong quality-to-price ratios by region and grape variety.
+I'm a data analyst with a hands-on approach to the full data pipeline: from collecting and cleaning data to building analyses and communicating what the numbers actually say. I'm particularly drawn to projects where the data tells a surprising story.
+
+---
+
+### 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+**📊 Personal Interests Dashboard**
+*Power BI | HTML*
+
+Interactive web dashboard built to explore and visualize personal interests data, designed with a bilingual interface.
+
+[🇪🇸 Ver en Español](https://joteiro.github.io/dash_intereses/) · [🇬🇧 View in English](https://joteiro.github.io/interests_dash/)
+
+---
+
+**🍷 Wine Structural Analysis – Vivino** 🇪🇸
+*Python | Pandas | Matplotlib | Web Scraping*
+
+Built a dataset of 7,965 Spanish wines by scraping Vivino's public API. Key findings: older vintages consistently score higher; price and rating are weakly correlated — the analysis surfaces hidden-value bottles by region and grape variety.
+
+[View Repository](https://github.com/Joteiro/Vinos-EDA)
+
+---
+
+**⚽ Football Transfers & Performance Analysis** 🇪🇸
+*MySQL | DBeaver | Data Modeling*
+
+Modeled a Transfermarkt dataset (7 tables, 300K+ rows) in MySQL — from staging through transformation, semantic views, and quality checks. Analyzed whether transfer spending predicts performance and what other factors drive results in European football.
+
+[View Repository](https://github.com/Joteiro/Analisis-Futbol-Europeo)
