@@ -31,11 +31,12 @@ I'm a data analyst with a hands-on approach to the full data pipeline: from coll
 
 Interactive web dashboard built to explore and visualize personal interests data, designed with a bilingual interface.
 
-[🇪🇸 Ver en Español](https://joteiro.github.io/dash_intereses/) · [🇬🇧 View in English](https://joteiro.github.io/interests_dash/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="20" height="15"> Ver en Español](https://joteiro.github.io/dash_intereses/) · [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg" width="20" height="15"> View in English](https://joteiro.github.io/interests_dash/)
 
 ---
 
-**🍷 Wine Structural Analysis – Vivino** 🇪🇸
+**🍷 Wine Structural Analysis – Vivino** <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="20" height="15">
+
 *Python | Pandas | Matplotlib | Web Scraping*
 
 Built a dataset of 7,965 Spanish wines by scraping Vivino's public API. Key findings: older vintages consistently score higher; price and rating are weakly correlated — the analysis surfaces hidden-value bottles by region and grape variety.
@@ -44,7 +45,8 @@ Built a dataset of 7,965 Spanish wines by scraping Vivino's public API. Key find
 
 ---
 
-**⚽ Football Transfers & Performance Analysis** 🇪🇸
+**⚽ Football Transfers & Performance Analysis** <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="20" height="15">
+
 *MySQL | DBeaver | Data Modeling*
 
 Modeled a Transfermarkt dataset (7 tables, 300K+ rows) in MySQL — from staging through transformation, semantic views, and quality checks. Analyzed whether transfer spending predicts performance and what other factors drive results in European football.
