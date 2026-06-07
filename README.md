@@ -1,6 +1,6 @@
 # Hi, I'm Juan Taraciuk 👋
 
-### Data Analyst | Python · SQL · Power BI
+### Data Analyst | CRM & CMS Implementation Specialist | Data Science |
 
 *"The most interesting conclusions are the ones you didn't expect."*
 
@@ -42,6 +42,16 @@ Interactive web dashboard built to explore and visualize personal interests data
 Built a dataset of 7,965 Spanish wines by scraping Vivino's public API. Key findings: older vintages consistently score higher; price and rating are weakly correlated — the analysis surfaces hidden-value bottles by region and grape variety.
 
 [View Repository](https://github.com/Joteiro/Vinos-EDA)
+
+---
+
+**🚀 Astronauts Statistical Analysis** <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg" width="20" height="15">
+
+*Python | Pandas | Scikit-Learn | Matplotlib | Seaborn*
+
+Exploratory and predictive analysis of 1,277 astronaut missions. Built regression and classification models to predict mission duration — and applied them to the real Artemis II crew as a real-world test case.
+
+[View Repository](https://github.com/Joteiro/Astronauts-Statistical-Analysis)
 
 ---
 
