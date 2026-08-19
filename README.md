@@ -26,15 +26,6 @@ I'm a data analyst with a hands-on approach to the full data pipeline: from coll
 
 ### 🚀 Featured Projects
 
-**📊 Personal Interests Dashboard**
-*Power BI | HTML*
-
-Interactive web dashboard built to explore and visualize personal interests data, designed with a bilingual interface.
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="20" height="15"> Ver en Español](https://joteiro.github.io/dash_intereses/) · [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg" width="20" height="15"> View in English](https://joteiro.github.io/interests_dash/)
-
----
-
 **🍷 Wine Structural Analysis – Vivino** <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="20" height="15">
 
 *Python | Pandas | Matplotlib | Web Scraping*
