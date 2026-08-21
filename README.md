@@ -1,6 +1,6 @@
 # Hi, I'm Juan Taraciuk 👋
 
-### Data Analyst | CRM & CMS Implementation Specialist | Data Science |
+### Data Science & Analytics | CRM & CMS Implementation Specialist | Machine & Deep Learning
 
 *"The most interesting conclusions are the ones you didn't expect."*
 
