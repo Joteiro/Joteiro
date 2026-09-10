@@ -26,6 +26,16 @@ I'm a data analyst with a hands-on approach to the full data pipeline: from coll
 
 ### 🚀 Featured Projects
 
+**🎾 Tennis Rulebook Expert Assistant (RAG + Agents)** <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="20" height="15">
+
+*Python | LangChain | LangGraph | ChromaDB | Gemini · Groq | Streamlit*
+
+A conversational RAG agent that answers questions about a tennis tournament's rulebook and **hierarchically falls back** to the ITF's general rules when the tournament rules don't cover the question — always citing its source. Features conversation memory (LangGraph), automatic model self-healing, a health check, and CI + monitoring with GitHub Actions.
+
+[🌐 Live app](https://tennis-agent.streamlit.app/) · [View Repository](https://github.com/Joteiro/tennis-rag-agent)
+
+---
+
 **🍷 Wine Structural Analysis – Vivino** <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="20" height="15">
 
 *Python | Pandas | Matplotlib | Web Scraping*
