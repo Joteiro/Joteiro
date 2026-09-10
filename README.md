@@ -46,7 +46,7 @@ Built a dataset of 7,965 Spanish wines by scraping Vivino's public API. Key find
 
 ---
 
-**🚀 Astronauts Statistical Analysis** <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg" width="20" height="15">
+**🧑🏽‍🚀 Astronauts Statistical Analysis** <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg" width="20" height="15">
 
 *Python | Pandas | Scikit-Learn | Matplotlib | Seaborn*
 
