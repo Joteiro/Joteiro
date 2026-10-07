@@ -26,6 +26,16 @@ I'm a data analyst with a hands-on approach to the full data pipeline: from coll
 
 ### 🚀 Featured Projects
 
+**🛒 Remolonas Rescue Planner** <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="20" height="15">
+
+*Python | SQLite | Docker | Web Scraping*
+
+Self-directed study of catalog rotation at a Spanish surplus-food retailer, built on 54 days of Shopify data collected autonomously. Measures assortment turnover, pricing by surplus reason, and supplier concentration — with Kaplan-Meier survival analysis in a fully Docker-reproducible pipeline.
+
+[View Repository](https://github.com/Joteiro/remolonas-rescue-planner)
+
+---
+
 **🎾 Tennis Rulebook Expert Assistant (RAG + Agents)** <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="20" height="15">
 
 *Python | LangChain | LangGraph | ChromaDB | Gemini · Groq | Streamlit*
