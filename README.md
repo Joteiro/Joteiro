@@ -27,6 +27,16 @@ I'm a data analyst with a hands-on approach to the full data pipeline: from coll
 
 ### 🚀 Featured Projects
 
+**⛓️ Sanctions Exposure on Blockchain Data**
+
+*BigQuery | dbt | SQL | GitHub Pages*
+
+End-to-end dbt pipeline on BigQuery tracing exposure to sanctioned entities through real Ethereum transaction flows and the OFAC/OpenSanctions list. Tested at every layer, it surfaces retroactive sanctions risk and multi-hop exposure — published as a static dashboard.
+
+[🌐 Live dashboard](https://joteiro.github.io/sanctions-exposure/) · [View Repository](https://github.com/Joteiro/sanctions-exposure)
+
+---
+
 **🛒 Remolonas Rescue Planner** <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="20" height="15">
 
 *Python | SQLite | Docker | Web Scraping*
