@@ -27,7 +27,7 @@ I'm a data analyst with a hands-on approach to the full data pipeline: from coll
 
 ### 🚀 Featured Projects
 
-**⛓️ Sanctions Exposure on Blockchain Data**
+**⛓️ Sanctions Exposure on Blockchain Data** <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg" width="20" height="15">
 
 *BigQuery | dbt | SQL | GitHub Pages*
 
